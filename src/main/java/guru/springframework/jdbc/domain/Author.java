@@ -3,6 +3,7 @@ package guru.springframework.jdbc.domain;
 import javax.persistence.*;
 import java.util.List;
 
+
 @Entity
 public class Author {
 
